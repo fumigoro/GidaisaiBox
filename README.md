@@ -1,2 +1,2 @@
-# directions-to-theGidaisaiBox
+# GidaisaiBox
 岐大祭Boxへの行き方がわからない人のための案内ページ
